@@ -10,7 +10,7 @@ nav_order: 1
 ## 1. Probability Space and Data-Generating Distribution
 
 We begin with a probability space  
-$$ (\Omega, \mathcal{F}, \mathbb{P}) $$
+$$(\Omega, \mathcal{F}, \mathbb{P})$$
 which models all randomness.
 
 A *data point* is a random variable  

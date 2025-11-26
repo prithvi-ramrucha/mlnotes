@@ -11,7 +11,7 @@ In probability theory, we consider **experiments** as abstraction for a thing th
 the end of an experiment is called an **outcome**. We define a sample space $\Omega$ as the set of all possible outcomes that can result from an experiment. In other words, $\Omega$ contains all possiblities of an experiment that can occur. 
 
 {: .highlight }
-**Example:** Our experiment, flipping a coin, has a two possible outcomes. They are the coin landing on heads $H$ or on tails $L$. In this case, the sample space is simply $\Omega = \{ H, T \}$.
+**Example:** Consider the experiment of flipping a coin; it has a two possible outcomes. They are the coin landing on heads $H$ or on tails $L$. In this case, the sample space is simply $\Omega = \{ H, T \}$.
 
 
 

@@ -8,5 +8,12 @@ url: https://prithvi-ramrucha.github.io/mlnotes
 just_the_docs:
   collapse_navigation: true
 
-#aux_links: 
-  #Template Repository: https://github.com/prithvi-ramrucha/mlnotes
+# Navigation,
+nav:
+  - title: Home
+    url: /
+    
+  - title: Probability Bootcamp
+    children:
+      - title: Sample Space
+        url: /probability-bootcamp/sample-sapce/

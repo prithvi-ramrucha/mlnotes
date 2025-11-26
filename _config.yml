@@ -16,4 +16,4 @@ nav:
   - title: Probability Bootcamp
     children:
       - title: Sample Space
-        url: /probability-bootcamp/sample-sapce/
+        url: /probability-bootcamp/sample-space/

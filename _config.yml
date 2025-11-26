@@ -6,8 +6,7 @@ url: https://prithvi-ramrucha.github.io/mlnotes
 
 # Configure sidebar,
 just_the_docs:
-  show_sidebar: true
-  collapsible_sidebar: true
+  collapse_navigation: true
 
 #aux_links: 
   #Template Repository: https://github.com/prithvi-ramrucha/mlnotes

@@ -7,3 +7,7 @@ url: https://prithvi-ramrucha.github.io/mlnotes
 # Configure sidebar,
 just_the_docs:
   collapse_navigation: true
+  custom_head: _includes/head_custom.html
+
+plugins:
+  - jekyll-include-cache

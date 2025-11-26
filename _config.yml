@@ -7,13 +7,3 @@ url: https://prithvi-ramrucha.github.io/mlnotes
 # Configure sidebar,
 just_the_docs:
   collapse_navigation: true
-
-# Navigation,
-nav:
-  - title: Home
-    url: /
-    
-  - title: Probability Bootcamp
-    children:
-      - title: Sample Space
-        url: /probability-bootcamp/sample-space/

@@ -4,5 +4,5 @@ theme: just-the-docs
 
 url: https://prithvi-ramrucha.github.io/mlnotes
 
-aux_links: 
-  Template Repository: https://github.com/prithvi-ramrucha/mlnotes
+#aux_links: 
+  #Template Repository: https://github.com/prithvi-ramrucha/mlnotes

@@ -19,7 +19,7 @@ $$ Giv
 \Omega = \{ omega_1, omega_2, ..., omega_N \}
 $$
 
-where $omega_j$ is the $j$-th **elementary outcome**: an indivisible outcome that cannot be broken down into smaller outcomes.
+where $\omega_j$ is the $j$-th **elementary outcome**: an indivisible outcome that cannot be broken down into smaller outcomes.
 
 # 2. Events
 

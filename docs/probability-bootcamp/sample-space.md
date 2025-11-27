@@ -13,7 +13,17 @@ the end of an experiment is called an **outcome**. We define a sample space $\Om
 {: .highlight }
 **Example:** Consider the experiment of flipping a coin; it has a two possible outcomes. They are the coin landing on heads $H$ or on tails $L$. In this case, the sample space is simply $\Omega = \{ H, T \}$.
 
+There are no limits on the cardinality of $\Omega$. However, we will use examples where it is finite. Generally a finite sample space $\Omega$ is defined as,
 
+$$ Giv
+\Omega = \{ omega_1, omega_2, ..., omega_N \}
+$$
+
+where $omega_j$ is the $j$-th **elementary outcome**: an indivisible outcome that cannot be broken down into smaller outcomes.
+
+2. Events
+
+An event $A$ is a subset of the sample space such that $A \subset \Omega$.
 
 
 

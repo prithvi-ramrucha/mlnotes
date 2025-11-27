@@ -21,7 +21,7 @@ $$
 
 where $omega_j$ is the $j$-th **elementary outcome**: an indivisible outcome that cannot be broken down into smaller outcomes.
 
-2. Events
+# 2. Events
 
 An event $A$ is a subset of the sample space such that $A \subset \Omega$.
 

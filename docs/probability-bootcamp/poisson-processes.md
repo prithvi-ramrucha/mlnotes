@@ -2,7 +2,7 @@
 title: Poisson Processes
 parent: Probability Bootcamp
 layout: home
-nav_order: 4
+nav_order: 6
 ---
 
 # 1. Counting Processes

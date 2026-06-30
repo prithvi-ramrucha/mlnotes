@@ -2,7 +2,7 @@
 title: The Poisson Distribution
 parent: Probability Bootcamp
 layout: home
-nav_order: 3
+nav_order: 5
 ---
 
 # 1. Introduction
@@ -10,7 +10,7 @@ nav_order: 3
 So far, we have been introduced to the Poisson distribution as the special case of the binomial distribution for small $p$ and in the limit of large $n$. We observed that $X \sim \text{Bi}(n, p)$ is approximated by $X \sim \text{Po}(\lambda = np)$ of which the probability distribution is,
 
 $$
-P(X = k) = \frac{\lambda^k e^{-\lambda}}{k!} 
+P(X = k) = \frac{\lambda^k e^{-\lambda}}{k!}
 $$
 
 But what does a Poisson distributed variable $X$ represent? To attach a meaning to the distribution, we must pay close attention as to how it arises from a limiting case of the binomial distribution. This means abandoning the idea of discrete trials in the experiment since we take the limit as $n \rightarrow \infty$. Instead, we imagine observing events that occur randomly throughout a continuous interval of time, space, area, or volume. The Poisson random variable $X$ then counts the number of times the event occurs within the chosen interval. Given that probability $p$ is small, we say that these events are **rare**. From these insights we can write,
